@@ -1,0 +1,6054 @@
+{
+  "units": [
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 138,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 547287
+        }
+      },
+      "code": "R2_B01_L03_02",
+      "favorite": false,
+      "floor": {
+        "code": "3"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 27238,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L03_02",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 2,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 6.31
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 7.1
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 84.44
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 71,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 518945
+        }
+      },
+      "code": "R2_B01_L03_03",
+      "favorite": false,
+      "floor": {
+        "code": "4"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 28599,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L03_03",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 1,
+        "bedroomsNumber": 2,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 12.76
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 6.98
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 114.71
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 116,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 432241
+        }
+      },
+      "code": "R2_B01_L03_04",
+      "favorite": false,
+      "floor": {
+        "code": "6"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 29424,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L03_04",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 2,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 11.43
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 5.9
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 74.99
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 110,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 690652
+        }
+      },
+      "code": "R2_B01_L03_05",
+      "favorite": false,
+      "floor": {
+        "code": "12"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 26770,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L03_05",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 2,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 17.79
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 5.48
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 103.32
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 144,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 613489
+        }
+      },
+      "code": "R2_B01_L03_06",
+      "favorite": false,
+      "floor": {
+        "code": "3"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 21710,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L03_06",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 2,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 9.54
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 9.85
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 90.99
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 120,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 898580
+        }
+      },
+      "code": "R2_B01_L03_07",
+      "favorite": false,
+      "floor": {
+        "code": "10"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 28759,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L03_07",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 8.11
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 4.43
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 115.05
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 102,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 530175
+        }
+      },
+      "code": "R2_B01_L04_08",
+      "favorite": false,
+      "floor": {
+        "code": "7"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 23677,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L04_08",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 11.76
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 7.59
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 69.58
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 126,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 523685
+        }
+      },
+      "code": "R2_B01_L04_09",
+      "favorite": false,
+      "floor": {
+        "code": "11"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 22234,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L04_09",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 11.34
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 5.86
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 74.02
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 81,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 660293
+        }
+      },
+      "code": "R2_B01_L04_10",
+      "favorite": false,
+      "floor": {
+        "code": "12"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 23878,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L04_10",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 11.86
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 6.38
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 64.93
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 99,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 705477
+        }
+      },
+      "code": "R2_B01_L04_11",
+      "favorite": false,
+      "floor": {
+        "code": "12"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 27271,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L04_11",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 1,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 6.43
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 9.27
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 92.83
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 73,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 869289
+        }
+      },
+      "code": "R2_B01_L04_12",
+      "favorite": false,
+      "floor": {
+        "code": "6"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 20367,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L04_12",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 2,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 8.55
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 4.86
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 60.7
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 81,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 763964
+        }
+      },
+      "code": "R2_B01_L05_13",
+      "favorite": false,
+      "floor": {
+        "code": "4"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 20776,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L05_13",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 1,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 2,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 16.57
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 9.53
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 116.56
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 148,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 598284
+        }
+      },
+      "code": "R2_B01_L05_14",
+      "favorite": false,
+      "floor": {
+        "code": "7"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 25252,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L05_14",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 16.48
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 8.77
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 119.07
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 135,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 446655
+        }
+      },
+      "code": "R2_B01_L05_15",
+      "favorite": false,
+      "floor": {
+        "code": "6"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 22502,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L05_15",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 19.57
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 5.9
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 69.14
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 127,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 491111
+        }
+      },
+      "code": "R2_B01_L05_16",
+      "favorite": false,
+      "floor": {
+        "code": "7"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 24483,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L05_16",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 1,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 14.08
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 6.05
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 87.8
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 137,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 494185
+        }
+      },
+      "code": "R2_B01_L05_17",
+      "favorite": false,
+      "floor": {
+        "code": "4"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 22295,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L05_17",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 2,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 7.19
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 10.0
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 71.63
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 99,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 766510
+        }
+      },
+      "code": "R2_B01_L05_18",
+      "favorite": false,
+      "floor": {
+        "code": "11"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 20719,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L05_18",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 2,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 9.59
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 4.74
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 75.25
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 82,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 706754
+        }
+      },
+      "code": "R2_B01_L06_19",
+      "favorite": false,
+      "floor": {
+        "code": "10"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 25580,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L06_19",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 1,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 11.02
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 9.85
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 109.43
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 144,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 452605
+        }
+      },
+      "code": "R2_B01_L06_20",
+      "favorite": false,
+      "floor": {
+        "code": "12"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 23684,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L06_20",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 2,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 5.75
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 5.01
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 100.11
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 88,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 453331
+        }
+      },
+      "code": "R2_B01_L06_21",
+      "favorite": false,
+      "floor": {
+        "code": "12"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 23948,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L06_21",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 2,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 19.21
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 7.79
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 68.31
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 77,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 600211
+        }
+      },
+      "code": "R2_B01_L06_22",
+      "favorite": false,
+      "floor": {
+        "code": "9"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 26542,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L06_22",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 18.99
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 9.32
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 69.47
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 138,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 487596
+        }
+      },
+      "code": "R2_B01_L06_23",
+      "favorite": false,
+      "floor": {
+        "code": "4"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 24432,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L06_23",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 5.31
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 7.94
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 119.2
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 88,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 454635
+        }
+      },
+      "code": "R2_B01_L06_24",
+      "favorite": false,
+      "floor": {
+        "code": "7"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 23221,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L06_24",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 1,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 2,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 6.47
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 3.61
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 110.0
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 109,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 470973
+        }
+      },
+      "code": "R2_B01_L07_25",
+      "favorite": false,
+      "floor": {
+        "code": "6"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 20964,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L07_25",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 13.9
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 7.68
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 110.69
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 123,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 472864
+        }
+      },
+      "code": "R2_B01_L07_26",
+      "favorite": false,
+      "floor": {
+        "code": "9"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 27679,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L07_26",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 2,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 15.69
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 4.89
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 107.45
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 117,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 736073
+        }
+      },
+      "code": "R2_B01_L07_27",
+      "favorite": false,
+      "floor": {
+        "code": "3"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 24252,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L07_27",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 16.81
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 5.65
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 64.89
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 105,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 696889
+        }
+      },
+      "code": "R2_B01_L07_28",
+      "favorite": false,
+      "floor": {
+        "code": "10"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 23270,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L07_28",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 1,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 18.82
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 3.56
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 65.31
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 96,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 629826
+        }
+      },
+      "code": "R2_B01_L07_29",
+      "favorite": false,
+      "floor": {
+        "code": "8"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 26660,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L07_29",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 2,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 8.99
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 7.8
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 104.22
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 82,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 721485
+        }
+      },
+      "code": "R2_B01_L08_30",
+      "favorite": false,
+      "floor": {
+        "code": "4"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 27623,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L08_30",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 2,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 6.57
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 8.4
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 72.89
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 90,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 669267
+        }
+      },
+      "code": "R2_B01_L08_31",
+      "favorite": false,
+      "floor": {
+        "code": "12"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 27964,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L08_31",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 13.39
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 5.98
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 80.55
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 139,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 466310
+        }
+      },
+      "code": "R2_B01_L08_32",
+      "favorite": false,
+      "floor": {
+        "code": "4"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 26993,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L08_32",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 2,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 9.23
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 5.86
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 70.99
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 93,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 701986
+        }
+      },
+      "code": "R2_B01_L08_33",
+      "favorite": false,
+      "floor": {
+        "code": "5"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 23931,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L08_33",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 8.54
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 6.62
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 96.43
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 139,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 519643
+        }
+      },
+      "code": "R2_B01_L08_34",
+      "favorite": false,
+      "floor": {
+        "code": "6"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 26401,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L08_34",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 2,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 6.41
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 8.63
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 107.52
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 117,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 878057
+        }
+      },
+      "code": "R2_B01_L09_35",
+      "favorite": false,
+      "floor": {
+        "code": "5"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 22765,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L09_35",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 15.05
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 3.91
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 108.28
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 131,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 716181
+        }
+      },
+      "code": "R2_B01_L09_36",
+      "favorite": false,
+      "floor": {
+        "code": "5"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 27554,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L09_36",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 1,
+        "bedroomsNumber": 2,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 5.76
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 3.27
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 77.07
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 149,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 424803
+        }
+      },
+      "code": "R2_B01_L09_37",
+      "favorite": false,
+      "floor": {
+        "code": "3"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 22106,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L09_37",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 9.98
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 7.07
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 107.06
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 149,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 706541
+        }
+      },
+      "code": "R2_B01_L09_38",
+      "favorite": false,
+      "floor": {
+        "code": "3"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 21225,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L09_38",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 11.34
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 3.49
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 82.98
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 98,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 602688
+        }
+      },
+      "code": "R2_B01_L09_39",
+      "favorite": false,
+      "floor": {
+        "code": "6"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 20822,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L09_39",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 18.82
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 7.04
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 97.39
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 118,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 689507
+        }
+      },
+      "code": "R2_B01_L09_40",
+      "favorite": false,
+      "floor": {
+        "code": "7"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 25699,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L09_40",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 2,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 15.29
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 4.93
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 114.28
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 122,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 457919
+        }
+      },
+      "code": "R2_B01_L10_41",
+      "favorite": false,
+      "floor": {
+        "code": "7"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 20236,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L10_41",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 1,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 9.56
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 8.62
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 116.76
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 143,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 537287
+        }
+      },
+      "code": "R2_B01_L10_42",
+      "favorite": false,
+      "floor": {
+        "code": "5"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 23480,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L10_42",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 2,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 7.4
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 9.89
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 64.51
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 131,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 666257
+        }
+      },
+      "code": "R2_B01_L10_43",
+      "favorite": false,
+      "floor": {
+        "code": "4"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 29494,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L10_43",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 2,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 9.85
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 9.57
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 67.34
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 76,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 751340
+        }
+      },
+      "code": "R2_B01_L10_44",
+      "favorite": false,
+      "floor": {
+        "code": "10"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 27584,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L10_44",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 2,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 17.66
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 7.76
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 98.78
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 82,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 463602
+        }
+      },
+      "code": "R2_B01_L10_45",
+      "favorite": false,
+      "floor": {
+        "code": "4"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 21680,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L10_45",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 10.03
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 7.64
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 87.64
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 117,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 858440
+        }
+      },
+      "code": "R2_B01_L11_46",
+      "favorite": false,
+      "floor": {
+        "code": "9"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 22365,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L11_46",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 2,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 15.16
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 7.32
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 106.93
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 127,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 866921
+        }
+      },
+      "code": "R2_B01_L11_47",
+      "favorite": false,
+      "floor": {
+        "code": "8"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 27374,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L11_47",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 2,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 15.05
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 5.59
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 92.19
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 147,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 559985
+        }
+      },
+      "code": "R2_B01_L11_48",
+      "favorite": false,
+      "floor": {
+        "code": "8"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 23930,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L11_48",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 2,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 2,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 8.45
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 4.65
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 67.44
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 91,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 658302
+        }
+      },
+      "code": "R2_B01_L11_49",
+      "favorite": false,
+      "floor": {
+        "code": "12"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 22421,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L11_49",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 3,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 6.35
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 3.8
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 101.89
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 115,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 550554
+        }
+      },
+      "code": "R2_B01_L11_50",
+      "favorite": false,
+      "floor": {
+        "code": "12"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 27162,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L11_50",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 3,
+        "bedroomsNumber": 1,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 10.3
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 6.41
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 82.09
+        }
+      ]
+    },
+    {
+      "availabilityStatus": "available",
+      "availability": {
+        "availabilityStatus": {
+          "code": "available",
+          "color": "#0BB783",
+          "id": 1
+        },
+        "availableSurface": 78,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 583808
+        }
+      },
+      "code": "R2_B01_L12_51",
+      "favorite": false,
+      "floor": {
+        "code": "12"
+      },
+      "floorplanUrl": "https://datahub.apps.dils.com/assets/random-url",
+      "id": 24642,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "living"
+      },
+      "name": "L12_51",
+      "property": {
+        "commercialName": "Sei milano",
+        "initiative": {
+          "initiativeName": "Sei milano"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": true,
+        "balconyFlag": true,
+        "bathroomNumber": 1,
+        "bedroomsNumber": 3,
+        "boxAvailabilityType": {
+          "code": "optional"
+        },
+        "boxFlag": true,
+        "cellarFlag": false,
+        "climaType": {
+          "code": "fan-coils-ceiling"
+        },
+        "communalGardenFlag": true,
+        "electricChargeFlag": false,
+        "energyRatingStatus": {
+          "code": "by-project"
+        },
+        "energyRating": {
+          "code": "a"
+        },
+        "exposureType": {
+          "code": "double"
+        },
+        "heatingSystemType": {
+          "code": "ceiling-heating"
+        },
+        "kitchenType": {
+          "code": "open"
+        },
+        "laPositioningType": {
+          "code": "south-east",
+          "name": "South-East"
+        },
+        "parkingSpaceFlag": true,
+        "parkingSpaceMotoFlag": false,
+        "residentialUseType": {
+          "code": "apartment"
+        },
+        "roomsNumber": 4,
+        "securityDoorFlag": true,
+        "stair": "A",
+        "terraceFlag": false,
+        "windowFixturesType": {
+          "code": "triple"
+        }
+      },
+      "surfaceUses": [
+        {
+          "surfaceType": {
+            "code": "balcony"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 17.68
+        },
+        {
+          "surfaceType": {
+            "code": "amenities"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 8.44
+        },
+        {
+          "surfaceType": {
+            "code": "living"
+          },
+          "unitOfMeasure": {
+            "code": "sqm"
+          },
+          "availableValue": 76.38
+        }
+      ]
+    }
+  ]
+}
