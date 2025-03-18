@@ -36,7 +36,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L03_02",
+      "name": "B01_L03_02",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -157,7 +157,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L03_03",
+      "name": "B01_L03_03",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -278,7 +278,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L03_04",
+      "name": "B01_L03_04",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -399,7 +399,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L03_05",
+      "name": "B01_L03_05",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -520,7 +520,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L03_06",
+      "name": "B01_L03_06",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -641,7 +641,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L03_07",
+      "name": "B01_L03_07",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -762,7 +762,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L04_08",
+      "name": "B01_L04_08",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -883,7 +883,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L04_09",
+      "name": "B01_L04_09",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -1004,7 +1004,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L04_10",
+      "name": "B01_L04_10",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -1125,7 +1125,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L04_11",
+      "name": "B01_L04_11",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -1246,7 +1246,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L04_12",
+      "name": "B01_L04_12",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -1367,7 +1367,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L05_13",
+      "name": "B01_L05_13",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -1488,7 +1488,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L05_14",
+      "name": "B01_L05_14",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -1609,7 +1609,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L05_15",
+      "name": "B01_L05_15",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -1730,7 +1730,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L05_16",
+      "name": "B01_L05_16",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -1851,7 +1851,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L05_17",
+      "name": "B01_L05_17",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -1972,7 +1972,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L05_18",
+      "name": "B01_L05_18",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -2093,7 +2093,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L06_19",
+      "name": "B01_L06_19",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -2214,7 +2214,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L06_20",
+      "name": "B01_L06_20",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -2335,7 +2335,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L06_21",
+      "name": "B01_L06_21",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -2456,7 +2456,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L06_22",
+      "name": "B01_L06_22",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -2577,7 +2577,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L06_23",
+      "name": "B01_L06_23",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -2698,7 +2698,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L06_24",
+      "name": "B01_L06_24",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -2819,7 +2819,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L07_25",
+      "name": "B01_L07_25",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -2940,7 +2940,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L07_26",
+      "name": "B01_L07_26",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -3061,7 +3061,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L07_27",
+      "name": "B01_L07_27",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -3182,7 +3182,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L07_28",
+      "name": "B01_L07_28",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -3303,7 +3303,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L07_29",
+      "name": "B01_L07_29",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -3424,7 +3424,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L08_30",
+      "name": "B01_L08_30",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -3545,7 +3545,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L08_31",
+      "name": "B01_L08_31",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -3666,7 +3666,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L08_32",
+      "name": "B01_L08_32",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -3787,7 +3787,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L08_33",
+      "name": "B01_L08_33",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -3908,7 +3908,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L08_34",
+      "name": "B01_L08_34",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -4029,7 +4029,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L09_35",
+      "name": "B01_L09_35",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -4150,7 +4150,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L09_36",
+      "name": "B01_L09_36",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -4271,7 +4271,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L09_37",
+      "name": "B01_L09_37",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -4392,7 +4392,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L09_38",
+      "name": "B01_L09_38",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -4513,7 +4513,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L09_39",
+      "name": "B01_L09_39",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -4634,7 +4634,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L09_40",
+      "name": "B01_L09_40",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -4755,7 +4755,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L10_41",
+      "name": "B01_L10_41",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -4876,7 +4876,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L10_42",
+      "name": "B01_L10_42",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -4997,7 +4997,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L10_43",
+      "name": "B01_L10_43",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -5118,7 +5118,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L10_44",
+      "name": "B01_L10_44",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -5239,7 +5239,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L10_45",
+      "name": "B01_L10_45",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -5360,7 +5360,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L11_46",
+      "name": "B01_L11_46",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -5481,7 +5481,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L11_47",
+      "name": "B01_L11_47",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -5602,7 +5602,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L11_48",
+      "name": "B01_L11_48",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -5723,7 +5723,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L11_49",
+      "name": "B01_L11_49",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -5844,7 +5844,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L11_50",
+      "name": "B01_L11_50",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
@@ -5965,7 +5965,7 @@
       "mainUnitUse": {
         "code": "living"
       },
-      "name": "L12_51",
+      "name": "B01_L12_51",
       "property": {
         "commercialName": "Sei milano",
         "initiative": {
