@@ -58125,14 +58125,14 @@
       "surfaceUses": []
     },
     {
-      "availabilityStatus": "available",
+      "availabilityStatus": "deal-closed",
       "availability": {
         "availabilityStatus": {
-          "code": "available",
-          "color": "#0BB783",
-          "id": 1
+          "code": "deal-closed",
+          "color": "#AE9142",
+          "id": 6
         },
-        "availableSurface": 65,
+        "availableSurface": 4.88,
         "instruction": {
           "instructionStatus": {
             "code": "active"
@@ -58146,19 +58146,19 @@
           "priceUnitOfMeasure": {
             "code": "eur"
           },
-          "price": 469000
+          "price": 5000
         }
       },
-      "code": "ffa9e641-662a-4538-93c4-6d7ced20732f",
+      "code": "e08e27bd-61b7-4bce-aa55-d5ad4e5d224f",
       "favorite": false,
       "floor": {
-        "code": "4"
+        "code": "ground"
       },
-      "floorplanUrl": "https://datahub.apps.dils.com/assets/4706ddf1-ee1a-498c-91ea-3acafe0467fc?",
-      "id": 18488,
+      "floorplanUrl": null,
+      "id": 12854,
       "levelsNumber": 1,
       "mainUnitUse": {
-        "code": "living"
+        "code": "storage"
       },
       "name": "C03_L01_02",
       "property": {
@@ -58169,81 +58169,34 @@
         "usedStatus": {}
       },
       "residentialDetails": {
-        "airConditioningFlag": true,
-        "balconyFlag": true,
-        "bathroomNumber": 1,
-        "bedroomsNumber": 1,
-        "boxAvailabilityType": {
-          "code": "optional"
-        },
-        "boxFlag": true,
-        "cellarFlag": false,
-        "climaType": {
-          "code": "fan-coils-ceiling"
-        },
-        "communalGardenFlag": true,
-        "electricChargeFlag": false,
-        "energyRatingStatus": {
-          "code": "by-project"
-        },
-        "energyRating": {
-          "code": "a"
-        },
-        "exposureType": {
-          "code": "double"
-        },
-        "heatingSystemType": {
-          "code": "ceiling-heating"
-        },
-        "kitchenType": {
-          "code": "open"
-        },
-        "laPositioningType": {
-          "code": "south-east",
-          "name": "South-East"
-        },
-        "parkingSpaceFlag": true,
-        "parkingSpaceMotoFlag": false,
+        "airConditioningFlag": null,
+        "balconyFlag": null,
+        "bathroomNumber": null,
+        "bedroomsNumber": null,
+        "boxAvailabilityType": {},
+        "boxFlag": null,
+        "cellarFlag": null,
+        "climaType": {},
+        "communalGardenFlag": null,
+        "electricChargeFlag": null,
+        "energyRatingStatus": {},
+        "energyRating": {},
+        "exposureType": {},
+        "heatingSystemType": {},
+        "kitchenType": {},
+        "laPositioningType": {},
+        "parkingSpaceFlag": null,
+        "parkingSpaceMotoFlag": null,
         "residentialUseType": {
-          "code": "apartment"
+          "code": "cellar"
         },
-        "roomsNumber": 2,
-        "securityDoorFlag": true,
-        "stair": "A",
-        "terraceFlag": false,
-        "windowFixturesType": {
-          "code": "triple"
-        }
+        "roomsNumber": null,
+        "securityDoorFlag": null,
+        "stair": null,
+        "terraceFlag": null,
+        "windowFixturesType": {}
       },
-      "surfaceUses": [
-        {
-          "surfaceType": {
-            "code": "balcony"
-          },
-          "unitOfMeasure": {
-            "code": "sqm"
-          },
-          "availableValue": 7.13
-        },
-        {
-          "surfaceType": {
-            "code": "amenities"
-          },
-          "unitOfMeasure": {
-            "code": "sqm"
-          },
-          "availableValue": 4.06
-        },
-        {
-          "surfaceType": {
-            "code": "living"
-          },
-          "unitOfMeasure": {
-            "code": "sqm"
-          },
-          "availableValue": 54.23
-        }
-      ]
+      "surfaceUses": []
     }
   ]
 }
