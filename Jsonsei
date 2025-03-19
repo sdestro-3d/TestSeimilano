@@ -58197,6 +58197,80 @@
         "windowFixturesType": {}
       },
       "surfaceUses": []
+    },
+    {
+      "availabilityStatus": "deal-closed",
+      "availability": {
+        "availabilityStatus": {
+          "code": "deal-closed",
+          "color": "#AE9142",
+          "id": 6
+        },
+        "availableSurface": 4.88,
+        "instruction": {
+          "instructionStatus": {
+            "code": "active"
+          }
+        },
+        "priceList": {
+          "actualPriceFlag": true,
+          "priceType": {
+            "code": "asking"
+          },
+          "priceUnitOfMeasure": {
+            "code": "eur"
+          },
+          "price": 5000
+        }
+      },
+      "code": "e08e27bd-61b7-4bce-aa55-d5ad4e5d224f",
+      "favorite": false,
+      "floor": {
+        "code": "ground"
+      },
+      "floorplanUrl": null,
+      "id": 12854,
+      "levelsNumber": 1,
+      "mainUnitUse": {
+        "code": "storage"
+      },
+      "name": "C03_L01_032",
+      "property": {
+        "commercialName": "Nizzoli 8",
+        "initiative": {
+          "initiativeName": "Nizzoli 8"
+        },
+        "usedStatus": {}
+      },
+      "residentialDetails": {
+        "airConditioningFlag": null,
+        "balconyFlag": null,
+        "bathroomNumber": null,
+        "bedroomsNumber": null,
+        "boxAvailabilityType": {},
+        "boxFlag": null,
+        "cellarFlag": null,
+        "climaType": {},
+        "communalGardenFlag": null,
+        "electricChargeFlag": null,
+        "energyRatingStatus": {},
+        "energyRating": {},
+        "exposureType": {},
+        "heatingSystemType": {},
+        "kitchenType": {},
+        "laPositioningType": {},
+        "parkingSpaceFlag": null,
+        "parkingSpaceMotoFlag": null,
+        "residentialUseType": {
+          "code": "cellar"
+        },
+        "roomsNumber": null,
+        "securityDoorFlag": null,
+        "stair": null,
+        "terraceFlag": null,
+        "windowFixturesType": {}
+      },
+      "surfaceUses": []
     }
   ]
 }
